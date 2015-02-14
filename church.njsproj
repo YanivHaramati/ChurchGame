@@ -24,13 +24,13 @@
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
   <ItemGroup>
+    <Compile Include="bin\www.js" />
     <Compile Include="classes.js" />
     <Compile Include="node_modules\debug\debug.js" />
     <Compile Include="node_modules\debug\index.js" />
     <Compile Include="node_modules\debug\lib\debug.js" />
     <Compile Include="routes\index.js" />
     <Compile Include="routes\users.js" />
-    <Content Include="bin\www.js" />
     <Content Include="node_modules\debug\package.json" />
     <Content Include="node_modules\debug\Readme.md" />
     <Content Include="public\stylesheets\style.css" />

@@ -157,5 +157,4 @@ $RECYCLE.BIN/
 
 \.ntvs*.*
 node_modules/
-bin/
 obj/
