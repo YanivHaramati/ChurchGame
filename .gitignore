@@ -156,5 +156,6 @@ $RECYCLE.BIN/
 .DS_Store
 
 .ntvs*.*
+node_modules/
 bin/
 obj/
