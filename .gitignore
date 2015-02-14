@@ -155,7 +155,7 @@ $RECYCLE.BIN/
 # Mac desktop service store files
 .DS_Store
 
-.ntvs*.*
+\.ntvs*.*
 node_modules/
 bin/
 obj/
